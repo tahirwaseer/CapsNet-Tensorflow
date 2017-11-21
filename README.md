@@ -87,8 +87,5 @@ Test accuracy | 0.43 | 0.44 | 0.49 |
  
 - There is [another new paper](https://openreview.net/pdf?id=HJWLfGWRb) about capsules(submitted to ICLR 2018), a follow-up of the CapsNet paper.
 
-## My weChat:
- ![my_wechat](/imgs/my_wechat_QR.png)
-
 ### Reference
 - [XifengGuo/CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras): referred for code optimization
